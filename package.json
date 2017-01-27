@@ -1,0 +1,22 @@
+{
+  "name": "nodejs.transformator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nursultan156/nodejs.transformator.git"
+  },
+  "author": "nursultan156",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nursultan156/nodejs.transformator/issues"
+  },
+  "homepage": "https://github.com/nursultan156/nodejs.transformator#readme",
+  "dependencies": {
+    "nodejs.validator": "^1.0.0"
+  }
+}
